@@ -1,0 +1,7 @@
+# Ignore environment and system files
+.env
+__pycache__/
+*.pyc
+.vscode/
+data/
+*.log

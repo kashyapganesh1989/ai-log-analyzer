@@ -1,0 +1,11 @@
+pandas
+regex
+scikit-learn
+transformers
+torch
+openai
+python-dotenv
+streamlit
+plotly
+python-dotenv
+streamlit-aggrid
